@@ -2,7 +2,6 @@ streamlit
 langchain
 langchain_community
 langchain_core
-langchain_groq
 langchain-cohere
 bs4
 pypdf
@@ -10,3 +9,8 @@ faiss-cpu
 PyPDF2
 arxiv
 python-dotenv
+chromadb
+lmdb
+ctransformers
+pymupdf
+langchain-huggingface
